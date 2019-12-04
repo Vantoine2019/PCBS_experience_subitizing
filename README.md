@@ -479,7 +479,7 @@ chutent**
 Retour sur expérience
 ---------------------
 
-N’ayant absolument aucune idée de la l’aspect infomatique de la
+N’ayant absolument aucune idée de l’aspect informatique de la
 sémantique du mot “python” auparavant, cette expérience fut intéressante
 dans la mesure où elle offre une porte d’entrée à la programmation
 nécessaire en sciences cognitives. La combinaison entre ce cours et
