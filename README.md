@@ -475,22 +475,3 @@ présentées avec un triangle avec le **sommet en haut** car on attend des
 - les données pour la disposition **aléatoire** sont présentées avec un
 triangle avec le **sommet en bas** car on attend des **performances qui
 chutent**
-
-Retour sur expérience
----------------------
-
-N’ayant absolument aucune idée de l’aspect informatique de la
-sémantique du mot “python” auparavant, cette expérience fut intéressante
-dans la mesure où elle offre une porte d’entrée à la programmation
-nécessaire en sciences cognitives. La combinaison entre ce cours et
-celui utilisant DataCamp permet d’aborder certaines bases essentielles.
-Néanmoins, la structure actuelle du cours reste selon moi confuse -
-certaines notions sont directement abordées mais sont trop complexes
-pour des personnes qui n’ont jamais fait de programmation ; mais
-paraissent évidentes pour d’autres personnes (l’écart s’étant
-probablement creusé avec la suppression du mois de rentrée et le nombre
-moins important d’heures en PCBS). Un système de groupes de niveaux
-pourrait paraître pertinent car en plus du meilleur suivi pendant les
-cours, il pourrait aussi permettre de donner des exercices plus
-adapatées aux besoins de chacun (même les premiers exercices sont
-difficiles pour des débutants).
